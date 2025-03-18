@@ -18,7 +18,7 @@ jobs:
         with:
             host: 3.107.205.4
             username: ubuntu
-            key: ${{ secrets.UBUNTU_AWS }}
+            key: ${{secrets.UBUNTU_AWS_KEY}}
             port: 22
             script: whoami
 
