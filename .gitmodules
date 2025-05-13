@@ -19,3 +19,9 @@
 [submodule "prometheus-test"]
 	path = prometheus-test
 	url = git@github.com:Jimil1407/prometheus-test.git
+[submodule "serverless-cloudflare-todo-app"]
+	path = serverless-cloudflare-todo-app
+	url = git@github.com:Jimil1407/serverless-cloudflare-todo-app.git
+[submodule "todo-app-serverless"]
+	path = todo-app-serverless
+	url = git@github.com:Jimil1407/serverless-cloudflare-todo-app.git
