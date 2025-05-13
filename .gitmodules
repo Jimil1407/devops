@@ -1,0 +1,21 @@
+[submodule "monorepo-deploy"]
+	path = monorepo-deploy
+	url = git@github.com:Jimil1407/monorepo-deploy.git
+[submodule "dck-compose"]
+	path = dck-compose
+	url = git@github.com:Jimil1407/dck-compose.git
+[submodule "monorepo_ci-cd"]
+	path = monorepo_ci-cd
+	url = git@github.com:Jimil1407/monorepo_ci-cd.git
+[submodule "auto_scaling"]
+	path = auto_scaling
+	url = git@github.com:Jimil1407/auto_scaling.git
+[submodule "vscode-server-aws"]
+	path = vscode-server-aws
+	url = git@github.com:Jimil1407/vscode-server-aws.git
+[submodule "ecr-ecs-testapp"]
+	path = ecr-ecs-testapp
+	url = git@github.com:Jimil1407/ecr-ecs-testapp.git
+[submodule "prometheus-test"]
+	path = prometheus-test
+	url = git@github.com:Jimil1407/prometheus-test.git
