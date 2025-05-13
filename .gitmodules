@@ -25,3 +25,6 @@
 [submodule "todo-app-serverless"]
 	path = todo-app-serverless
 	url = git@github.com:Jimil1407/serverless-cloudflare-todo-app.git
+[submodule "kubernetes"]
+	path = kubernetes
+	url = git@github.com:Jimil1407/kubernetes.git
