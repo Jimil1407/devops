@@ -1,0 +1,13 @@
+jimil_monorepo.pem
+jimil.pem
+projects
+todo-app
+prom-test
+prometheus-app
+ecr-test-app
+mobile-magic
+ASG
+asg_experiment
+kind
+kubectl
+.DS_Store
